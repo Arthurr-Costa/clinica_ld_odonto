@@ -124,32 +124,6 @@ Em **Settings → Pages**, a origem da publicação deve estar configurada como 
 6. Utilize `Closes #NUMERO` na descrição do PR quando houver uma Issue a encerrar.
 7. Após a revisão e o merge, acompanhe o deploy e confira o site publicado.
 
-Exemplos de nomes de branches:
-
-- `fix/imagens-clinica`
-- `feat/nova-secao`
-- `docs/atualiza-readme`
-
-## Verificações manuais
-
-Antes de enviar uma alteração:
-
-- [ ] Conferir o layout em computador e celular.
-- [ ] Testar a abertura e o fechamento do menu móvel.
-- [ ] Conferir os links de navegação.
-- [ ] Verificar os destinos dos botões de WhatsApp e Instagram.
-- [ ] Conferir o carregamento das imagens.
-- [ ] Testar as dúvidas frequentes.
-- [ ] Verificar a navegação por teclado.
-- [ ] Conferir se existem erros no console do navegador.
-
-## Próximas melhorias
-
-- Completar os arquivos de imagem referenciados em `assets/`.
-- Implementar testes automatizados.
-- Condicionar a publicação à aprovação dos testes.
-- Configurar e verificar a proteção da branch principal.
-- Publicar versões estáveis com tags e releases.
 
 ## Autor
 
